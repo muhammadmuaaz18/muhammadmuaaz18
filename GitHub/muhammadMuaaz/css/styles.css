@@ -1,0 +1,12 @@
+body{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.Muaazbanner{
+    padding: 50px 5px 5px 10px;
+    background-color: lightgray;
+}
+.subheading{font-weight: bold; font-size: 24px; font-style: inherit;}
+.footer{font-size: small;}
+
+.image{
+    padding-top: 14px ;
+}
